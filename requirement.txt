@@ -1,4 +1,14 @@
 pandas 
 numpy
 seaborn
+
+opencv-python
+mediapipe
+
+scikit-learn
+joblib
+
+matplotlib
+
 -e .
+
